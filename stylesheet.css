@@ -1,13 +1,17 @@
-#navbar{
-	position:fixed;
-	margin-top:5px;
+#navbar {
+	position: fixed;
+	margin-top: 5px;
+	display: inline-block;
 }
 
 li {
-	/*border: 3px solid #000000;*/
 	border-radius: 5px;
 	font-family: sans-serif;
 	font-size: 2em;
 	color: #ffffff;
-	background-color: #001155;
+	background-color: #aaffee;
+}
+
+#body {
+	margin-top: 20px;
 }
