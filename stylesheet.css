@@ -1,10 +1,8 @@
 #navbar {
 	position: fixed;
-	margin-top: 5px;
-}
-
-#navbar ul {
+	margin-top: -5px;
 	display: inline-block;
+	list-style-type: none;
 }
 
 li {
