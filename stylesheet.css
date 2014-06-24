@@ -1,0 +1,12 @@
+#navbar{
+	position:fixed;
+	margin-top:5px;
+}
+
+li {
+	/*border: 3px solid #000000;*/
+	border-radius: 5px;
+	font-family: sans-serif;
+	color: #000000;
+	background-color: #005511;
+}
