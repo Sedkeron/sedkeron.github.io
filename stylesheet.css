@@ -1,6 +1,9 @@
 #navbar {
 	position: fixed;
 	margin-top: 5px;
+}
+
+#navbar ul {
 	display: inline-block;
 }
 
@@ -9,7 +12,7 @@ li {
 	font-family: sans-serif;
 	font-size: 2em;
 	color: #ffffff;
-	background-color: #aaffee;
+	background-color: #4863a0;
 }
 
 #body {
